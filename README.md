@@ -12,6 +12,7 @@ I made it responsive so it works on both desktop and mobile, and I tried to add 
 ---
 
 ## How to Play
+![Gameplay Screenshot](assets/Simon_Say_Game.png)
 1. Open `index.html` in your browser.  
 2. Watch the sequence of colors and listen to the sounds.  
 3. Click the buttons in the same order.  
